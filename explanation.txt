@@ -1,0 +1,3 @@
+Assignment : Practice Assignment #5 
+
+In my solution, the sorting algorithm I implemented is a Quick Sort. It has a worst case running time of O(nlgn), the same as a merge sort. But for arrays, merge sort loses as it spends time allocating and de-allocating memory. 
